@@ -1,0 +1,26 @@
+Body{
+    background-color: rgba(204, 204, 204, 0.274);
+    
+}
+.col-8{
+    width: 100%;
+    margin: auto;
+    text-align: center
+}
+#question{
+    padding: 10px;
+    background-color: cadetblue;
+}
+#answer{
+    margin-bottom: 10px;
+
+}
+#buttons{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: burlywood;
+}
+#timer{
+    margin-bottom: 20px;
+}
